@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6E/BF5UMFM0BMIXMHWQ44ZWT5.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YA/H0QA9Z1O7ZJUOJLEJF34PZ.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/GM_targetGame.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VY/84SGSQY1980FPZ9ML1QHK8.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/WBP_endScreen.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/BP_rifle.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/FirstPerson/Blueprints/BP_bullet.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/Target/SM_Target_SM_Target/GC_SM_Target.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VK/OPQ5BAIHCCIM4BYTWI560E.uasset",
+				"C:/Users/alexa/OneDrive/Documents/gameDev/unrealTestGame/unrealTestGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Y4/Z48YEZQ5XPZJ5D5KV9TH98.uasset"
+			]
+		}
+	]
+}
